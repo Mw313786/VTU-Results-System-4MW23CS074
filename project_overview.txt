@@ -1,0 +1,4 @@
+VTU Examination Results System – Project Overview
+
+This file is part of the software engineering assignment for USN 074.
+It contains basic project information stored in GitHub as required.
